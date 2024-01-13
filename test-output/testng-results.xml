@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[TC2 is running]]>
+    </line>
+    <line>
+      <![CDATA[TC3 is running]]>
+    </line>
+    <line>
+      <![CDATA[TC4 is running]]>
+    </line>
+    <line>
+      <![CDATA[TC5 IS running]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-23T14:36:16 IST" name="Suite" finished-at="2023-12-23T14:36:17 IST" duration-ms="142">
+    <groups>
+    </groups>
+    <test started-at="2023-12-23T14:36:16 IST" name="Test" finished-at="2023-12-23T14:36:17 IST" duration-ms="142">
+      <class name="testNGxmlUse.TestClass3">
+        <test-method signature="TC1()[pri:0, instance:testNGxmlUse.TestClass3@6574a52c]" started-at="2023-12-23T14:36:17 IST" name="TC1" finished-at="2023-12-23T14:36:17 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method signature="TC2()[pri:0, instance:testNGxmlUse.TestClass3@6574a52c]" started-at="2023-12-23T14:36:17 IST" name="TC2" finished-at="2023-12-23T14:36:17 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC2 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method signature="TC3()[pri:0, instance:testNGxmlUse.TestClass3@6574a52c]" started-at="2023-12-23T14:36:17 IST" name="TC3" finished-at="2023-12-23T14:36:17 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC3 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method signature="TC4()[pri:0, instance:testNGxmlUse.TestClass3@6574a52c]" started-at="2023-12-23T14:36:17 IST" name="TC4" finished-at="2023-12-23T14:36:17 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC4 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+        <test-method signature="TC5()[pri:0, instance:testNGxmlUse.TestClass3@6574a52c]" started-at="2023-12-23T14:36:17 IST" name="TC5" finished-at="2023-12-23T14:36:17 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC5 IS running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC5 -->
+      </class> <!-- testNGxmlUse.TestClass3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
